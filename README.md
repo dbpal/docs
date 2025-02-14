@@ -1,7 +1,7 @@
 ## dbpal 
 dbpal is a database management system that easy to use.
 
-right we support those database system.
+we support those database system.
 * mysql
 * tidb
 * mariadb
