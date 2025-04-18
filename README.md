@@ -25,7 +25,7 @@
 * cochroach
 * cassandra
 
-## design goal
+## features
 * easy to use
 * fast
 * low memory consumption
