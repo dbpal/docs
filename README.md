@@ -1,6 +1,6 @@
 # dbpal 
 
- *dbpal is a very simple database management system with good
+<img src="./images/icon.png" width="50"> *dbpal is a very simple database management system with good
         functionality, ease of use and low resource usage. It supports postgres,
         mysql, sqlite, etc...*
 ![img](./images/query.png)
