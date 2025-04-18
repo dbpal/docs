@@ -1,8 +1,8 @@
 # dbpal 
 
-<img src="./images/icon.png" width="50"> *dbpal is a very simple database management system with good
+<img src="./images/icon.png" width="50"> **dbpal is a very simple database management system with good
         functionality, ease of use and low resource usage. It supports postgres,
-        mysql, sqlite, etc...*
+        mysql, sqlite, etc...**
 ![img](./images/query.png)
 
 ## video demo
@@ -23,6 +23,7 @@
 * libsql
 * firebird
 * cochroach
+* cassandra
 
 ## design goal
 * easy to use
@@ -31,6 +32,8 @@
 * sql editor
 * open a lot of tabs
 * security (power by rust)
+* small binary size
+* low cpu usage
 
 
 ## mongo query editor
@@ -40,7 +43,7 @@ some variable for interact with database such as `db` etc ...
 ![img](./images/mongo_query.png) 
 
 <br/>
-full list see the code blow.
+full predefined variable and types see the code blow.
 
 ~~~typescript
  interface ILogger {
@@ -177,23 +180,8 @@ It used in a lot of places like edit , view data.
 <br/>
 here is a demo
 
-~~~json
-{
-  _id: '67d28f5967732f49643f3cfa' as ObjectID,
-  string_field: 'Hello, world!',
-  int_field: 123,
-  float_field: 123.45,
-  bool_field: false,
-  date_field: '2025-03-13T07:55:05.000Z' as date,
-  null_field: null,
-  regex_field: /hahaxxx/i,
-  binary_field: [ 1, 2, 3 ],
-  uuid_field: [ 184, 204, 126, 52, 202, 147, 77, 34, 155, 235, 227, 155, 72, 165, 141, 161 ] as binary uuid,
-  array_field: [ 1, 2, 3 ],
-  object_field: { nested_key: 'nested_value' },
-  decimal_field: '1' as decimal,
-  timestamp_field: 0 as timestamp 1233
-}
+~~~
+ 
 ~~~
 
 ## screen shots
