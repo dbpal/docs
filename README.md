@@ -22,7 +22,7 @@
 * clickhouse
 * libsql
 * firebird
-* cochroach
+* cockroach
 * cassandra
 
 ## features
