@@ -7,7 +7,7 @@
 
 ## video demo
 [video](https://www.youtube.com/watch?v=rQiUqanW2sM)
-[中文](https://www.youtube.com/watch?v=rQiUqanW2sM)
+[video(中文)](https://www.youtube.com/watch?v=rQiUqanW2sM)
 
 ##  support those database system
 * mysql
@@ -212,3 +212,4 @@ here is a demo
 ![img](./images/table_menu.png)
 ![img](./images/table_structure.png)
 ![img](./images/auto_completion.png)
+![img](./images/memory_usage.png)
