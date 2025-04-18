@@ -29,11 +29,13 @@
 * easy to use
 * fast
 * low memory consumption
+* low cpu usage
 * sql editor
 * open a lot of tabs
 * security (power by rust)
 * small binary size
-* low cpu usage
+* export query to file
+* export table or view to file
 
 
 ## mongo query editor
@@ -181,7 +183,28 @@ It used in a lot of places like edit , view data.
 here is a demo
 
 ~~~
- 
+ {
+  _id: '67ff4141df774f7cb32f77d3' as ObjectID,  // convert a to ObjectID
+  string_field: 'Hello, world!',
+  int_field: 123,
+  float_field: 123.45,
+  bool_field: true,
+  date_field: '2025-04-16T05:33:53.000Z' as date,
+  null_field: null,
+  regex_field: /haha/i,  // regexp
+  // binary
+  binary_field: [ 1, 2 ] as binary vector int8,
+  binary_field2: [ 1, 2 ] as binary vector float32,
+  binary_field3: [ 104, 101, 108, 108, 111 ] as binary generic,
+  binary_field4: [ 104, 101, 108, 108, 111 ] as binary encrypted,
+  binary_field5: [ 104, 101, 108, 108, 111 ] as binary user_define 10,
+  uuid_field: [ 123, 199, 23, 38, 202, 184, 67, 6, 151, 11, 43, 111, 236, 163, 109, 7 ] as binary uuid,
+  array_field: [ 1, 2, 3 ],
+  object_field: { nested_key: 'nested_value' },
+  decimal_field: '1' as decimal,
+  timestamp_field: 1744781633 as timestamp 1  // 1 as increment
+}
+
 ~~~
 
 ## screen shots
