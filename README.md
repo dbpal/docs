@@ -165,9 +165,9 @@ class BsonExtraDataType {
     return BSON.Binary.fromFloat32Array(array)
   }
 }
-    var db : IMongoDB;
-    var logger : ILogger;
-    var bsonExtraDataType : BsonExtraDataType
+    let db : IMongoDB;
+    let logger : ILogger;
+    let bsonExtraDataType : BsonExtraDataType
 ~~~
 
 ## mongo dsl
@@ -206,6 +206,18 @@ here is a demo
 }
 
 ~~~
+
+## mongo query error line number
+dbpal wants to provide the line number of the error information when using mongo query, but it is a bit difficult. 
+The `eval` function does not provide the error line information when an error occurs.
+<br/>
+Therefore, dbpal uses esprima to parse your source code before executing mongo query. Therefore, the source code of the syntax error can provide the line number.
+<br/>
+![img](./images/mongo_query/error_has_line.png)
+
+If the source code can be parsed correctly, there will be no line number information later.
+![img](./images/mongo_query/error_has_line.png)
+
 
 ## screen shots
 ![img](./images/add_connection.png)
