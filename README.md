@@ -216,7 +216,7 @@ Therefore, dbpal uses esprima to parse your source code before executing mongo q
 ![img](./images/mongo_query/error_has_line.png)
 
 If the source code can be parsed correctly, there will be no line number information later.
-![img](./images/mongo_query/error_has_line.png)
+![img](./images/mongo_query/error_without_error.png)
 
 
 ## screen shots
