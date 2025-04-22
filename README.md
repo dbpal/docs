@@ -224,4 +224,3 @@ If the source code can be parsed correctly, there will be no line number informa
 ![img](./images/table_menu.png)
 ![img](./images/table_structure.png)
 ![img](./images/auto_completion.png)
-![img](./images/memory_usage.png)
