@@ -1,6 +1,6 @@
 # dbpal 
 
-<img src="./images/icon.png" width="50"> **dbpal is a very simple database management system with good
+<img src="./images/icon.png" width="70"> **dbpal is a very simple database management system with good
         functionality, ease of use and low resource usage. It supports postgres,
         mysql, sqlite, etc...**
 ![img](./images/query.png)
@@ -8,6 +8,11 @@
 ## video demo
 [video](https://www.youtube.com/watch?v=rQiUqanW2sM)
 [video(中文)](https://www.youtube.com/watch?v=rQiUqanW2sM)
+
+## install 
+* windows
+* macos
+* 
 
 ##  support those database system
 * mysql
@@ -30,7 +35,7 @@
 * fast
 * low memory consumption
 * low cpu usage
-* sql editor
+* sql editor(auto completion ,high light)
 * open a lot of tabs
 * security (power by rust)
 * small binary size
