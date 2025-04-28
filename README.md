@@ -6,7 +6,7 @@
 ![img](./images/query.png)
 
 ## video demo
-[video](https://www.youtube.com/watch?v=rQiUqanW2sM)
+[video](https://www.youtube.com/watch?v=bRAjQM-V9r4)
 [video(中文)](https://www.youtube.com/watch?v=rQiUqanW2sM)
 
 ## install 
@@ -222,6 +222,34 @@ Therefore, dbpal uses esprima to parse your source code before executing mongo q
 
 If the source code can be parsed correctly, there will be no line number information later.
 ![img](./images/mongo_query/error_without_error.png)
+
+
+## Privacy Policy
+Effective Date: April 28, 2025
+<br/>
+At dbpal, we are committed to protecting your privacy. This Privacy Policy outlines our practices regarding the collection, use, and protection of your information.
+</br>
+
+1. Information We Do Not Collect
+  <br/>
+  We do not collect any personal information from our users. This includes, but is not limited to:
+    * Names
+    * Email addresses
+    * Phone numbers
+    * Payment information
+    * Location data
+2. Use of Information 
+<br/>
+Since we do not collect any personal information, we do not use, share, or sell any user information to third parties.
+
+3. Changes to This Privacy Policy 
+  <br/>
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on our website. Your continued use of our services after any changes indicates your acceptance of the new policy.
+
+4. Contact Us
+  <br/>
+If you have any questions about this Privacy Policy, please contact us at:
+756445638@qq.com 
 
 
 ## screen shots
