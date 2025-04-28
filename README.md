@@ -228,7 +228,6 @@ If the source code can be parsed correctly, there will be no line number informa
 Effective Date: April 28, 2025
 <br/>
 At dbpal, we are committed to protecting your privacy. This Privacy Policy outlines our practices regarding the collection, use, and protection of your information.
-</br>
 
 1. Information We Do Not Collect
   <br/>
