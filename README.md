@@ -10,9 +10,9 @@
 [video(中文)](https://www.youtube.com/watch?v=rQiUqanW2sM)
 
 ## install 
-* windows
-* macos
-* 
+* [windows](https://apps.microsoft.com/detail/9nw4d1fn94kn?hl=en-US&gl=US)
+* macos (comming sooon)
+* [linux](https://github.com/dbpal/docs/releases)
 
 ##  support those database system
 * mysql
