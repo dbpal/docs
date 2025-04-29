@@ -30,6 +30,9 @@
 * cockroach
 * cassandra
 
+## report issue
+[issue](https://github.com/dbpal/docs/issues)
+
 ## features
 * easy to use
 * fast
