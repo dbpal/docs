@@ -11,8 +11,8 @@
 
 ## install 
 * [windows](https://apps.microsoft.com/detail/9nw4d1fn94kn?hl=en-US&gl=US)
-* macos (comming sooon)
-* [linux](https://github.com/dbpal/docs/releases)
+* macos (comming soon)
+* [linux](https://github.com/dbpal/docs/releases) (FREE FOR ALL)  
 
 ##  support those database system
 * mysql
