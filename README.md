@@ -94,3 +94,4 @@ If you have any questions about this Privacy Policy, please contact us at:
 ![img](./images/add_connection.png)
 ![img](./images/table_menu.png)
 ![img](./images/table_structure.png)
+![img](./images/sql_table_view.png)
