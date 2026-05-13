@@ -9,9 +9,9 @@
 
 ## Donation
 * [windows](https://apps.microsoft.com/detail/9nw4d1fn94kn?hl=en-US&gl=US)
-* [ko-fi](https://ko-fi.com)
-* <img src="./images/wechat_pay.jpg" width="192" style="width: 12rem; display: inline-block; vertical-align: middle;" />
-* <img src="./images/alipay.jpg" width="192" style="width: 12rem; display: inline-block; vertical-align: middle;" />
+* [ko-fi](https://ko-fi.com/young38925)
+* <img src="./images/wechat_pay.jpg" style="width: 12rem; display: inline-block; vertical-align: middle;" />
+* <img src="./images/alipay.jpg" style="width: 12rem; display: inline-block; vertical-align: middle;" />
 
    
 
