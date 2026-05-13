@@ -7,9 +7,17 @@
 
 
 
+## Donation
+* [windows](https://apps.microsoft.com/detail/9nw4d1fn94kn?hl=en-US&gl=US)
+* [ko-fi](https://ko-fi.com)
+* <img src="./images/wechat_pay.jpg" width="192" style="width: 12rem; display: inline-block; vertical-align: middle;" />
+* <img src="./images/alipay.jpg" width="192" style="width: 12rem; display: inline-block; vertical-align: middle;" />
+
+   
 
 ## Install
 https://github.com/yuyang-ok/dbpal/releases
+
 
 macos need extra command to run,somehow I have difficulties to apply developer account.
 
@@ -50,13 +58,13 @@ xattr -d com.apple.quarantine /Applications/dbpal.app
 * low memory consumption
 * low cpu usage
 * sql editor(auto completion ,high light)
-* open a lot of tabs
 * security (power by rust)
 * small binary size
 * export query to file
 * export table or view to file
 * streamed query through rust [Stream](https://docs.rs/futures/latest/futures/prelude/trait.Stream.html) and [Channel](https://v2.tauri.app/develop/calling-frontend/#channels)
 * start at instant
+* separate query window
 
 ## mongo query editor
 mongo use webkit build in js interpreter via `eval`, `dbpal` predefine
