@@ -36,6 +36,11 @@ xattr -d com.apple.quarantine /Applications/dbpal.app
 * duckdb 
 * couchbase
 
+## AI Powered chat 
+
+![img](./images/ai_chat_1.png)
+![img](./images/ai_chat_2.png)
+
 ## report issue
 [issue](https://github.com/dbpal/docs/issues)
 
@@ -50,6 +55,7 @@ xattr -d com.apple.quarantine /Applications/dbpal.app
 * small binary size
 * export query to file
 * export table or view to file
+* streamed query through rust [Stream](https://docs.rs/futures/latest/futures/prelude/trait.Stream.html) and [Channel](https://v2.tauri.app/develop/calling-frontend/#channels)
 
 
 ## mongo query editor
