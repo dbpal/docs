@@ -8,17 +8,17 @@
 
 
 
-## install 
+## Install
 https://github.com/yuyang-ok/dbpal/releases
 
-macos need extra command to run,somehow I have difficulties to apple developer account.
+macos need extra command to run,somehow I have difficulties to apply developer account.
 
 ~~~
 # after install on macos execute  
 xattr -d com.apple.quarantine /Applications/dbpal.app  
 ~~~
 
-##  support those database system
+##  supported database system
 * mysql
 * tidb
 * mariadb
@@ -56,7 +56,7 @@ xattr -d com.apple.quarantine /Applications/dbpal.app
 * export query to file
 * export table or view to file
 * streamed query through rust [Stream](https://docs.rs/futures/latest/futures/prelude/trait.Stream.html) and [Channel](https://v2.tauri.app/develop/calling-frontend/#channels)
-
+* start at instant
 
 ## mongo query editor
 mongo use webkit build in js interpreter via `eval`, `dbpal` predefine
