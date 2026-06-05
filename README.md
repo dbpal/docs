@@ -16,7 +16,7 @@
    
 
 ## Install
-https://github.com/yuyang-ok/dbpal/releases
+https://github.com/dbpal/docs/releases
 
 
 macos need extra command to run,somehow I have difficulties to apply developer account.
