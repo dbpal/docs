@@ -1,5 +1,10 @@
 # dbpal 
 
+<h1 style="font-weight:bolder"> This is Free software</h1>
+<h1 style="font-weight:bolder"> This is Free software</h1>
+<h1 style="font-weight:bolder"> This is Free software</h1>
+
+
 <img src="./images/icon.png" width="70"> **dbpal is a very simple database management system with good
         functionality, ease of use and low resource usage. It supports postgres,
         mysql, sqlite, etc...**
